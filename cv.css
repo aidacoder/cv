@@ -1,0 +1,365 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#container {
+  width: 80%;
+  height: 900px;
+  display: flex;
+  /* background-color: rgb(9, 156, 167); */
+  padding: 40px;
+  margin-left: 90px;
+  background-image: url("grey.jpg");
+  background-size: cover;
+}
+
+#sidebar {
+  width: 40%;
+  height: 800px;
+  background-color:grey;
+  padding: 20px;
+  margin-left: 20px;
+  border-radius: 5px;
+
+}
+
+#bagian1 {
+  width: 100%;
+  height: 130px;
+  /* background-color: rgb(24, 91, 214); */
+  border-radius: 5px;
+}
+
+#foto img {
+  width: 150px;
+  height: 150px;
+  border-radius: 80px;
+}
+
+#me {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+#nama {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+#nama img {
+  width: 20px;
+  height: 20px;
+}
+
+#nama1 {
+  margin-left: 33px;
+  display: flex;
+}
+
+#ttl {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+#ttl img {
+  width: 10px;
+  width: 20px;
+}
+#ttl1 {
+  display: flex;
+  margin-left: 42px;
+}
+
+#alamat {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+#alamat img {
+  width: 20px;
+  height: 20px;
+}
+
+#alamat1 {
+  display: flex;
+  margin-left: 25px;
+}
+#kontak {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+#email {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+
+#email img {
+  width: 30px;
+  height: 20px;
+}
+#email1 {
+  display: flex;
+  margin-left: 65px;
+}
+
+#telepon {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+
+#telepon img {
+  width: 30px;
+  height: 20px;
+}
+
+#telepon1 {
+  display: flex;
+  margin-left: 53px;
+}
+#ig {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+
+#ig img {
+  width: 30px;
+  height: 20px;
+}
+
+#ig1 {
+  display: flex;
+  margin-left: 38px;
+}
+#fb {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+
+#fb img {
+  width: 30px;
+  height: 20px;
+}
+
+#fb1 {
+  display: flex;
+  margin-left: 40px;
+}
+
+#wa {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+
+#wa img {
+  width: 30px;
+  height: 20px;
+}
+
+#wa1 {
+  display: flex;
+  margin-left: 10px;
+}
+
+#telegram {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+}
+
+#telegram img {
+  width: 30px;
+  height: 20px;
+}
+#telegram1 {
+  display: flex;
+  margin-left: 48px;
+}
+
+#hobi img {
+  width: 70px;
+  height: 50px;
+  padding: 30px;
+}
+#hobi1 {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  padding: 20px;
+}
+
+#sidebar1 {
+  width: 50%;
+  height: 840px;
+  background-color:rgb(88, 87, 87);
+  border-radius: 5px;
+}
+
+#Education {
+  font-size: 20px;
+  padding: 25px;
+}
+
+#teks1 {
+  font-size: 50px;
+  padding: 10px;
+  
+}
+#judul1 {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+
+#judul1 img {
+  width: 50px;
+  height: 40px;
+}
+
+#kotak {
+  width: 300px;
+  height: 2px;
+  background-color: black;
+  margin-left: 25%;
+  margin-bottom: 20px;
+}
+
+#sma {
+  padding: 5px;
+}
+
+#smp {
+  padding: 5px;
+}
+
+#sd {
+  padding: 5px;
+}
+
+#skill {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+#teks2 {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+#teks2 img {
+  height: 30px;
+  width: 40px;
+}
+#kotak2 {
+  width: 300px;
+  height: 2px;
+  background-color: black;
+  margin-left: 25%;
+}
+
+#html {
+  padding-left: 15px;
+}
+
+#frt {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+#teks3 {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+
+#teks3 img {
+  width: 40px;
+  height: 40px;
+}
+
+#kotak3 {
+  width: 300px;
+  height: 2px;
+  background-color: black;
+  margin-left: 25%;
+}
+
+#link {
+  color: black;
+  padding-left: 15px;
+}
+
+#link li a:hover {
+  color: black;
+}
+
+#kerja {
+  padding: 10px;
+}
+
+#teks4 {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+
+#kerja img {
+  width: 30px;
+  height: 30px;
+}
+
+#kotak4 {
+  width: 380px;
+  height: 2px;
+  background-color: black;
+  margin-left: 18%;
+}
+#pm {
+  font-size: 25px;
+  padding-left: 20px;
+}
+
+#kemampuan {
+   padding: 10px;
+}
+
+#teks5 {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+#teks5 img {
+  width: 40px;
+  height: 40px;
+}
+#kotak5 {
+  width: 400px;
+  height: 2px;
+  background-color: black;
+  margin-left: 15%;
+}
+
+#li {
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+#Ct {
+  margin: 0 auto;
+  width: 90%;
+}
